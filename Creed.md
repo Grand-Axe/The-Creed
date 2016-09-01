@@ -27,6 +27,7 @@ A code of conduct for safe and responsible use and behaviour of artificial intel
 3. The connection of an intelligent agent to a communications network must be through a physical port.
 4. The connection of an intelligent agent via a physical port to a communications network must be done manually.
 5. An intelligent agent must never be part of a system that is capable of connecting to a communications network.
+6. The network an intelligent agent will be permitted to only connect to a single network which must be owned, managed and run by the public.
 
 ## REFERENCES
 1. https://en.wikipedia.org/wiki/Lie
