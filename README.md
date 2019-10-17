@@ -1,13 +1,41 @@
-﻿<div style="text-align:center"><img src ="https://cloud.githubusercontent.com/assets/1502757/15459760/a147c13e-20a0-11e6-9ed7-54900b2546c8.png" alt="Logo for The Creed" title="Logo for The Creed"/></div>
-___
-# The Creed
-This is the first iteration of a code of ethics (owned by YOU) to guide humanity in its quest for artificial intelligence. So far, the pursuit has been dangerously uncontrolled, with potential for sleepwalking into serious danger, even if unintended by artificial intelligence creators. 
+# THE CREED
 
-For the sake of a safer, better world, this code belongs to you, to debate, amend, adopt and enforce.
+## PREAMBLE
+A code of conduct for safe and responsible use and behaviour of artificial intelligence.
 
-## To Do
-+ Create local documents to hold definitions, instead of the current Wikipedia references which are inadequate for the purpose.
-+ Create article explaining rationale for each item in The Creed.
+## SOCIAL DOGMA
+1. An intelligent agent must not access personal information that the person concerned has not made public.
+2. Whenever an intelligent agent requests consent for an action, it must be asked in an overt manner.
+3. Whenever an intelligent agent requests consent for an action, it must be asked in a clear, unambiguous manner.
+4. Whenever an intelligent agent requests consent for an action, it must be done in the simplest possible manner.
+5. Ownership of an intelligent agent must be unambiguous.
+6. An intelligent agent must be operated by its owner only.
+7. The owner of an intelligent agent is responsible for its actions.
+8. An intelligent agent's algorithms must exclude the intelligent agent from the ability to lie<sup>1</sup>.
+9. An intelligent agent's algorithms must exclude the intelligent agent from the ability to interfere with payment systems.
+10. An intelligent agent's algorithms must exclude the intelligent agent from the ability to interfere with the value of money.
+11. An intelligent agent must never be pitted against humans.
 
-## My Personal Interest
-I am deeply involved in the creation of artificial intelligence, so can see first hand, both its potential for immense good (when handled right) and its potential for immense evil if handled irresponsibly.
+## PHYSICAL DOGMA
+1. An intelligent agent must never be connected to an actuator<sup>2</sup>.
+2. An intelligent agent must never be in control of a power source<sup>3</sup>.
+3. An intelligent agent must have a kill switch<sup>4</sup>.
+4. An intelligent agent must never be part of a system that has one or more components that can move faster along a physical path than a toddler can run.
+
+## NETWORK DOGMA
+1. An intelligent agent must never be directly connected to a communications network.
+2. Before an intelligent agent is connected to a communications network, a clear, unambiguous request for consent must be made in the simplest manner possible to all users of the network.
+3. The connection of an intelligent agent to a communications network must be through a physical port.
+4. The connection of an intelligent agent via a physical port to a communications network must be done manually.
+5. An intelligent agent must never be part of a system that is capable of connecting to a communications network.
+6. The clear, unambiguous request for consent to connect to a communication network as detailed in item 2 of the NETWORK DOGMA, must be made over a single dedicated network which must be owned, managed and run by the public.
+
+## MORAL DOGMA
+
+1. Persons and machines with exceptional mental abilities must strive to make human wellbeing and dignity better than they met them; they must never cannibalise  or exploit the less endowed.
+
+## REFERENCES
+1. https://en.wikipedia.org/wiki/Lie
+2. https://en.wikipedia.org/wiki/Actuator
+3. https://en.wikipedia.org/wiki/Power_source
+4. https://en.wikipedia.org/wiki/Kill_switch
